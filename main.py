@@ -1,0 +1,6 @@
+line = input()
+print("---------")
+print('|'+' '+line[0]+' '+line[1]+' '+line[2]+' '+'|')
+print('|'+' '+line[3]+' '+line[4]+' '+line[5]+' '+'|')
+print('|'+' '+line[6]+' '+line[7]+' '+line[8]+' '+'|')
+print("---------")
